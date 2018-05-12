@@ -1,0 +1,36 @@
+_repo: Memoirs_22030
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leland, Charles Godfrey
+    aliases:
+    - Breitman, Hans
+    - Breitmann, Hans
+    - Leland, Charles G.
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '243'
+    url: http://www.gutenberg.org/2009/agents/243
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
+description: Leland took up arms against King Louis-Philippe in the 1848 revolution
+  in France, popularized the term "emancipation" of slaves, fought for the Union in
+  the American Civil War, and unearthed a diverse collection of folklore, including
+  the alleged "bible" of pagan witchcraft. A life-long truth-stretcher and story-teller,
+  he tells his own tale in this disarming 1893 memoir.
+gutenberg_issued: '2007-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcc 'PS'
+- !lcsh 'Leland, Charles Godfrey, 1824-1903'
+title: Memoirs
+url: http://www.gutenberg.org/ebooks/22030
